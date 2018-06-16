@@ -30,4 +30,4 @@
   - JMS domains
     + Point to point
     + Subcriber/ Pulisher
-    
+## ActiveMQ message storage    
