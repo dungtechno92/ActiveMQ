@@ -30,4 +30,6 @@
   - JMS domains
     + Point to point
     + Subcriber/ Pulisher
-## ActiveMQ message storage    
+## ActiveMQ message storage
+#### Kahadb
+  - The data logs
