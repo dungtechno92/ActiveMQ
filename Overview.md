@@ -32,5 +32,5 @@
     + Subcriber/ Pulisher
 ## ActiveMQ message storage
 #### Kahadb
-  ![](images/https://github.com/dungtechno92/ActiveMQ/blob/master/5.3.PNG)
+  ![](https://github.com/dungtechno92/ActiveMQ/blob/master/5.3.PNG)
   - The data logs
